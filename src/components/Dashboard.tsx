@@ -22,8 +22,8 @@ const Dashboard: React.FC = () => {
 const buttonStyle: React.CSSProperties = {
   display: 'inline-block',
   margin: '10px',
-  padding: '10px 20px', // Adjust the width here
-  backgroundColor: 'green', // Change the color to green
+  padding: '10px 20px', 
+  backgroundColor: 'green', 
   color: 'white',
   textDecoration: 'none',
   textAlign: 'center',

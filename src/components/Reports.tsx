@@ -23,7 +23,7 @@ const Reports: React.FC = () => {
     width: '100%',
   };
 
-  // CSS style to center text within table cells
+
   const cellStyle:React.CSSProperties
    = {
     textAlign: 'center',
